@@ -1,0 +1,5 @@
+Model,Accuracy
+Logistic Regression,0.8
+KNN,0.75
+Random Forest,0.79
+XGBoost,0.78
